@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation.listaencadeada;
+package main.java.one.digitalinnovation.linkedlist;
 
 public class LinkedListEx<T> {
 
