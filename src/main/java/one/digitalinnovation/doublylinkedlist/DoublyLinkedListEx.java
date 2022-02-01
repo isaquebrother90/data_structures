@@ -6,12 +6,6 @@ public class DoublyLinkedListEx<T> {
     private DoubleNode<T> lastNode;
     private int listSize;
 
-    public DoublyLinkedListEx() {
-        this.firstNode = null;
-        this.lastNode = null;
-        this.listSize = 0;
-    }
-
     public T get(int index) {
         return this.getNode(index).getContent();
     }

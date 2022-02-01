@@ -20,7 +20,5 @@ public class Main {
         System.out.println(mineDoublyLinkedList);
         System.out.println(mineDoublyLinkedList.get(3));
 
-        mineDoublyLinkedList.
-
     }
 }
